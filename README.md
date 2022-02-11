@@ -2,7 +2,7 @@
 - 👀 I’m interested in graphic design, programming, photography & music
 - 🌱 I’m currently learning Python3 as a programming language 
 - 💞️ I’m looking to collaborate on different projects to stretch my abilities and challenge myself
-- 📫 Contact me gmail:jm1bacalla@gmail.com insta:@jeykmishlee
+- 📫 Contact me gmail:jm1bacalla@gmail.com insta:@_mishlee
 
 
 <!---
