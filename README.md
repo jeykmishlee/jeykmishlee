@@ -8,7 +8,7 @@
 <a href="mailto:jakinmishle.bacalla@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="gmail" height="15" width="20" /></a>
 </p>
 
-<hr align="center" width="50%">
+
 
 <p align="center"><strong>✨ About Me ✨</strong></p>
 <p align="center">🎧 🎾 🎨 🐱 🌸 🎐 🏐</p>
