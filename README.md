@@ -12,3 +12,6 @@
 
 <p align="center"><strong>✨ About Me ✨</strong></p>
 <p align="center">🎧 🎾 🎨 🐱 🌸 🎐 🏐</p>
+
+<hr>
+<p align="center">Will fix repositories soon...</p>
