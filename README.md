@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Jakin Mishle Bacalla
-- 👀 I’m interested in graphic design, programming, photography & music
-- 🌱 I’m currently learning Python3 as my main programming language and JavaScript on the side
-- 💞️ I’m looking to collaborate on different projects to stretch my abilities and challenge myself
-- 📫 Contact me gmail:jakinmishle.bacalla@gmail.com 
+<h3 align="center">👋🌱 Hi, I'm Jakin.</h3>
+<!-- <h3 align="center">An agile web developer specializing in front-end development.</h3> -->
+<p align="center">
+<a href="https://web.facebook.com/jakin.c.bacalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakin.c.bacalla" height="15" width="20" /></a>
+<a href="https://github.com/jeykmishlee/jeykmishlee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="jeykmishlee" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/jcbacalla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jcbacalla" height="15" width="20" /></a>
+<a href="mailto:jakinmishle.bacalla@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="gmail" height="15" width="20" /></a>
+</p>
 
-<!---
-jeykmishlee/jeykmishlee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">📫 Contact me: <a href="mailto:jakinmishle.bacalla@gmail.com">jakinmishle.bacalla@gmail.com</a></p>
