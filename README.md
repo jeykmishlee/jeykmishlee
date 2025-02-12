@@ -8,6 +8,6 @@
 <a href="mailto:jakinmishle.bacalla@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="gmail" height="15" width="20" /></a>
 </p>
 
-<p align="center">📫 Reach out anytime: <a href="mailto:jakinmishle.bacalla@gmail.com"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="gmail" height="15" width="20" /></a> <b>jakinmishle.bacalla@gmail.com</b></p>
+<p align="center">📫 Reach out anytime: <a href="mailto:jakinmishle.bacalla@gmail.com"></a> <b>jakinmishle.bacalla@gmail.com</b></p>
 
 <p align="center">🎧 🎾 🎨 🐱 🌸 🎐</p>
