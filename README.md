@@ -20,15 +20,18 @@
  
 <hr>
 
-<p align="center"><strong>✨ About Me ✨</strong></p>
-<p align="center">🎧 🎾 🎨 🐱 🌸 🎐 🏐</p>
-
 <p align="center"><strong> 📊 GitHub Stats </strong></p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jeykmishlee&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-#<p align="center">
-#  <img src="https://github-readme-stats.vercel.app/api?username=jeykmishlee&show_icons=true&locale=en" alt="GitHub Stats" />
-#</p>
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jeykmishlee&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+-->
+<hr>
+
+<p align="center"><strong>✨ About Me ✨</strong></p>
+<p align="center">⚽ 🎧 🎾 🎨 🐱 🌸 🎐 🏐</p>
