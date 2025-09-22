@@ -13,12 +13,12 @@
 
 <div align="center">
 
-- 💻 You can explore my projects at [jakinmishlebacalla.framer.website](https://jakinmishlebacalla.framer.website)  
-- 🌷 Learn more about me in [My resume](https://drive.google.com/file/d/1ut-ckFAJ9IbEYrr2SeptvjZ8ZrZUBZpj/view)  
+💻 You can explore my projects at [jakinmishlebacalla.framer.website](https://jakinmishlebacalla.framer.website)  
+🌷 Learn more about me in [My resume](https://drive.google.com/file/d/1ut-ckFAJ9IbEYrr2SeptvjZ8ZrZUBZpj/view)  
 
 </div>
  
-
+<hr>
 
 <p align="center"><strong>✨ About Me ✨</strong></p>
 <p align="center">🎧 🎾 🎨 🐱 🌸 🎐 🏐</p>
